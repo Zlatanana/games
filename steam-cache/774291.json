@@ -1,0 +1,38 @@
+﻿{
+    "shots":  [
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/1c1c2a2c546737761deae01f303b79badf2539ae/ss_1c1c2a2c546737761deae01f303b79badf2539ae.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/1c1c2a2c546737761deae01f303b79badf2539ae/ss_1c1c2a2c546737761deae01f303b79badf2539ae.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/b34e3191b50a8dc902ef6bae42d8c94e53cfe042/ss_b34e3191b50a8dc902ef6bae42d8c94e53cfe042.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/b34e3191b50a8dc902ef6bae42d8c94e53cfe042/ss_b34e3191b50a8dc902ef6bae42d8c94e53cfe042.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/038be7d257ed6ab542dc7f1aa966b58ca0408d90/ss_038be7d257ed6ab542dc7f1aa966b58ca0408d90.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/038be7d257ed6ab542dc7f1aa966b58ca0408d90/ss_038be7d257ed6ab542dc7f1aa966b58ca0408d90.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/808ab5eec5bb6e58043e193d13d7189f5665b20f/ss_808ab5eec5bb6e58043e193d13d7189f5665b20f.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/808ab5eec5bb6e58043e193d13d7189f5665b20f/ss_808ab5eec5bb6e58043e193d13d7189f5665b20f.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/ff921d3a52a8b2655408d61077fb26095efb3853/ss_ff921d3a52a8b2655408d61077fb26095efb3853.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/ff921d3a52a8b2655408d61077fb26095efb3853/ss_ff921d3a52a8b2655408d61077fb26095efb3853.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/8df0266772b1f42af46054972bc05cac94e4f8bc/ss_8df0266772b1f42af46054972bc05cac94e4f8bc.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/8df0266772b1f42af46054972bc05cac94e4f8bc/ss_8df0266772b1f42af46054972bc05cac94e4f8bc.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/c67d7f24589bdea23d1629c64f952d9214459d7f/ss_c67d7f24589bdea23d1629c64f952d9214459d7f.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/c67d7f24589bdea23d1629c64f952d9214459d7f/ss_c67d7f24589bdea23d1629c64f952d9214459d7f.1920x1080.jpg?t=1792068178"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/eb82d54bf3bee4e971a776d741c695d32d58f9fe/ss_eb82d54bf3bee4e971a776d741c695d32d58f9fe.600x338.jpg?t=1792068178",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/eb82d54bf3bee4e971a776d741c695d32d58f9fe/ss_eb82d54bf3bee4e971a776d741c695d32d58f9fe.1920x1080.jpg?t=1792068178"
+                  }
+              ],
+    "video":  "",
+    "poster":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257314483/81ccc48786fdc2c36b0d82f3fe19233f3d03ee70/movie_600x337.jpg?t=1775316156"
+}

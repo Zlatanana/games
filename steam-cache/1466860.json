@@ -1,0 +1,38 @@
+﻿{
+    "shots":  [
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_2ae5b5a2a779c31e3acae486ec359b0d9087bc8c.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_2ae5b5a2a779c31e3acae486ec359b0d9087bc8c.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_5384805fa5d365b069f197498269fabd7143cb4c.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_5384805fa5d365b069f197498269fabd7143cb4c.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4da9632574ab355b1a581190c262d21a1d3248ba.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4da9632574ab355b1a581190c262d21a1d3248ba.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_48195285a60c6208f8bd722f74c556b9a224f4b0.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_48195285a60c6208f8bd722f74c556b9a224f4b0.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_758b154dbd4cbfc943ba34010f514348580968c7.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_758b154dbd4cbfc943ba34010f514348580968c7.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_c1284fc0ac8145df0811411adbbe9ab0ed512fef.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_c1284fc0ac8145df0811411adbbe9ab0ed512fef.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4d48fbd0aa828322c76239c03c591181c69b3049.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4d48fbd0aa828322c76239c03c591181c69b3049.1920x1080.jpg?t=1780854334"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_71e788f069dd226f40ce6dd7cce06430abbaf918.600x338.jpg?t=1780854334",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_71e788f069dd226f40ce6dd7cce06430abbaf918.1920x1080.jpg?t=1780854334"
+                  }
+              ],
+    "video":  "",
+    "poster":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256913281/movie.293x165.jpg?t=1666907093"
+}

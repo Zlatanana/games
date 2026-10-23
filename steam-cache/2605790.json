@@ -1,0 +1,38 @@
+﻿{
+    "shots":  [
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/5b2a02f79b42293ab1ebda8e51be65221cdfa253/ss_5b2a02f79b42293ab1ebda8e51be65221cdfa253.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/5b2a02f79b42293ab1ebda8e51be65221cdfa253/ss_5b2a02f79b42293ab1ebda8e51be65221cdfa253.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/46f12e4aa86d98afd4d2dfa97104fbecc2a425e3/ss_46f12e4aa86d98afd4d2dfa97104fbecc2a425e3.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/46f12e4aa86d98afd4d2dfa97104fbecc2a425e3/ss_46f12e4aa86d98afd4d2dfa97104fbecc2a425e3.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/a3546fbf54121e6a9ae5479ff042fe0ce18d29df/ss_a3546fbf54121e6a9ae5479ff042fe0ce18d29df.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/a3546fbf54121e6a9ae5479ff042fe0ce18d29df/ss_a3546fbf54121e6a9ae5479ff042fe0ce18d29df.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/0d5ee90e068ba83a777b678bc5672d8a493cf159/ss_0d5ee90e068ba83a777b678bc5672d8a493cf159.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/0d5ee90e068ba83a777b678bc5672d8a493cf159/ss_0d5ee90e068ba83a777b678bc5672d8a493cf159.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/acb1ae2479edb83592b22d0aff2bdf7c9a07a1e3/ss_acb1ae2479edb83592b22d0aff2bdf7c9a07a1e3.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/acb1ae2479edb83592b22d0aff2bdf7c9a07a1e3/ss_acb1ae2479edb83592b22d0aff2bdf7c9a07a1e3.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/c2482ac5e4042faae5807e6d49fa5d3f35055597/ss_c2482ac5e4042faae5807e6d49fa5d3f35055597.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/c2482ac5e4042faae5807e6d49fa5d3f35055597/ss_c2482ac5e4042faae5807e6d49fa5d3f35055597.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/f25d0d8c2f7d3601ee63a0ab5d012ac2da03cd1f/ss_f25d0d8c2f7d3601ee63a0ab5d012ac2da03cd1f.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/f25d0d8c2f7d3601ee63a0ab5d012ac2da03cd1f/ss_f25d0d8c2f7d3601ee63a0ab5d012ac2da03cd1f.1920x1080.jpg?t=1788348461"
+                  },
+                  {
+                      "thumb":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/395623c1c77852e65a2ef566b0abea8e88b014bf/ss_395623c1c77852e65a2ef566b0abea8e88b014bf.600x338.jpg?t=1788348461",
+                      "full":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/395623c1c77852e65a2ef566b0abea8e88b014bf/ss_395623c1c77852e65a2ef566b0abea8e88b014bf.1920x1080.jpg?t=1788348461"
+                  }
+              ],
+    "video":  "",
+    "poster":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257339942/3b8504012ff58a185733fa40e28f10a250f9f986/movie_600x337.jpg?t=1779292166"
+}
